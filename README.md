@@ -6,7 +6,7 @@
   
 [![Solved.ac
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)
-<h3>:octocat: Github</h3>
+<h3>:octocat: GitHub</h3>
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry&show_icons=true&theme=radical)](https://github.com/Merry-Berry/github-readme-stats)
 <hr>
@@ -22,7 +22,26 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
 <br>
 <br>
 <h3>✒ 계획</h3>
-
+<table border="1" align="center">
+	<th>월</th>
+	<th>화</th>
+  <th>수</th>
+	<th>목</th>
+  <th>금</th>
+	<th>토</th>
+	<tr align="center">
+    <td colspan="6">BOJ 세 문제 풀기</td>
+	</tr>
+  <tr align="center">
+    <td colspan="3">Socket Programming</td>
+    <td colspan="3">운영체제</td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">DS 복습</td>
+    <td colspan="2">알고리즘</td>
+    <td colspan="2">ML</td>
+  </tr>
+</table>
 </div>
 <!--
 **Merry-Berry/Merry-Berry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
