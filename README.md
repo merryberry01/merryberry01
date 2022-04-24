@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=Merry%20Berry&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=YoungJun%20Ryu&descAlignY=70)
 
-<div align=center></div>
+<div align=center>
 [![Solved.ac
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry&show_icons=true&theme=radical)](https://github.com/Merry-Berry/github-readme-stats)
 <hr>
