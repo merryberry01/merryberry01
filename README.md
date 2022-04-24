@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=Merry%20Berry&fontColor=#ffffff&fontSize=50&fontAlign=10&fontAlignY=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=Merry%20Berry&fontColor=#ffffff&fontSize=50&animation=fadeIn)
 
 [![Solved.ac
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
