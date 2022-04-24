@@ -1,7 +1,8 @@
 [![Solved.ac
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry)](https://github.com/Merry-Berry/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merry-Berry&layout=compact)](https://github.com/Merry-Berry/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry&show_icons=true&theme=radical)](https://github.com/Merry-Berry/github-readme-stats)
+
+출처: https://yoon990.tistory.com/38 [개발저장소]
 <br>
 <br>
 <br>
