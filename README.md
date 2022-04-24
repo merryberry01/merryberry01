@@ -1,9 +1,6 @@
 [![Solved.ac
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry&show_icons=true&theme=radical)](https://github.com/Merry-Berry/github-readme-stats)
-<br>
-<br>
-<br>
 <hr>
 😎 언어
 
