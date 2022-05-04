@@ -30,7 +30,7 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
   <th>금</th>
 	<th>토</th>
 	<tr align="center">
-    <td colspan="6">BOJ 세 문제 풀기</td>
+    <td colspan="6">BOJ 두 문제 풀기</td>
 	</tr>
   <tr align="center">
     <td colspan="3">소켓프로그래밍</td>
