@@ -33,13 +33,13 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
     <td colspan="6">BOJ 두 문제 풀기</td>
 	</tr>
   <tr align="center">
-    <td colspan="3">소켓프로그래밍</td>
+    <td colspan="3">운영체제</td>
     <td colspan="3">시스템프로그래밍</td>
   </tr>
   <tr align="center">
     <td colspan="2">DS 복습</td>
     <td colspan="2">알고리즘</td>
-    <td colspan="2">운영체제</td>
+    <td colspan="2">소켓</td>
   </tr>
 </table>
 </div>
