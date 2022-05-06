@@ -42,7 +42,7 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
     <td colspan="2">소켓</td>
   </tr>
 </table>
-  <br>
+  <hr>
  <h3>🌐 SNS</h3>
   <a href="https://www.instagram.com/stardust_youngjun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stardust_youngjun"/></a>  <a href="https://www.discordapp.com/users/476786118524665858"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://www.discordapp.com/users/476786118524665858"/></a>
   <br>
