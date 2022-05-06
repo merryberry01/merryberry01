@@ -48,7 +48,7 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
   <br>
   <br>
   <h3>🎲 게임</h3>
-  <a href="www.facebook.com/profile.php?id=10044366712561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=10044366712561"/></a>  <a href="https://youtube.com/channel/UCxOJ5xS5sdimtctrGJiPqhw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/channel/UCxOJ5xS5sdimtctrGJiPqhw"/></a>
+  <a href="https://www.facebook.com/profile.php?id=10044366712561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=10044366712561"/></a>  <a href="https://youtube.com/channel/UCxOJ5xS5sdimtctrGJiPqhw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/channel/UCxOJ5xS5sdimtctrGJiPqhw"/></a>
 </div>
 <!--
 **Merry-Berry/Merry-Berry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
