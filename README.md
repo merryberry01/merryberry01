@@ -21,28 +21,12 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
 <br>
 <br>
-<h3>✒ 계획</h3>
-<table border="1" align="center">
-	<th>월</th>
-	<th>화</th>
-  <th>수</th>
-	<th>목</th>
-  <th>금</th>
-	<th>토</th>
-	<tr align="center">
-    <td colspan="6">BOJ 두 문제 풀기</td>
-	</tr>
-  <tr align="center">
-    <td colspan="3">운영체제</td>
-    <td colspan="3">시스템프로그래밍</td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">DS 복습</td>
-    <td colspan="2">알고리즘</td>
-    <td colspan="2">소켓</td>
-  </tr>
-</table>
-  <hr>
+<h3>📝 공부 중</h3>
+<h5>✒ 리눅스 API</h5>
+<h5>✒ 운영체제</h5>
+<h5>✒ 알고리즘</h5>
+<h5>✒ 강화학습</h5>
+<br>
  <h3>🌎 SNS</h3>
   <a href="https://www.instagram.com/stardust_youngjun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stardust_youngjun"/></a>  <a href="https://www.discordapp.com/users/476786118524665858"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://www.discordapp.com/users/476786118524665858"/></a>
   <br>
