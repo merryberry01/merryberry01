@@ -22,9 +22,9 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
 <br>
 <br>
 <h3>📝 공부 중</h3>
-<h5>✒ UNIX API</h5>
-<h5>✒ Computer Architecture</h5>
-<h5>✒ Algorithm</h5>
+<h5>✒ Operating System </h5>
+<h5>✒ Computer Organization & Architecture</h5>
+<h5>✒ Algorithm & PS</h5>
 <br>
  <h3>🌎 SNS</h3>
   <a href="https://www.instagram.com/stardust_youngjun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stardust_youngjun"/></a>
