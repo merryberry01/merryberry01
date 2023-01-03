@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=Merry%20Berry&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=YoungJun%20Ryu&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=merrybrrry01&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=YoungJun%20Ryu&descAlignY=70)
 <br>
 <h3>🗝 BOJ</h3>
   
@@ -8,7 +8,7 @@
 yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://solved.ac/yyj0110)
 <h3>:octocat: GitHub</h3>
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merry-Berry&show_icons=true&theme=radical)](https://github.com/Merry-Berry/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merryberry01&show_icons=true&theme=radical)](https://github.com/merryberry01/github-readme-stats)
 <hr>
 
 <h3>:snowflake: 언어</h3>
