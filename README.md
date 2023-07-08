@@ -16,15 +16,15 @@ yyj0110](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj0110)](https://sol
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <br>
 <br>
-<h3>🛠 개발도구<h3>
+<h3>🛠 개발도구&환경<h3>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
 <br>
 <br>
 <h3>📝 공부 중</h3>
-<h5>✒ Operating System </h5>
-<h5>✒ Computer Organization & Architecture</h5>
-<h5>✒ Algorithm & PS</h5>
+<h5>✒ Linux Kernel</h5>
+<h5>✒ Arm Architecture</h5>
+<h5>✒ Reversing & pwnable</h5>
 <br>
  <h3>🌎 SNS</h3>
   <a href="https://www.instagram.com/stardust_youngjun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stardust_youngjun"/></a>
