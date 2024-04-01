@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=merrybrrry01&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=YoungJun%20Ryu&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=150&section=header&text=merrybrrry01&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Youngjun%20Ryu&descAlignY=70)
 <br>
 <h3>🗝 BOJ</h3>
   
